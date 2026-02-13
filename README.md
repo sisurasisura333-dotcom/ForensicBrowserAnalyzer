@@ -1,28 +1,28 @@
 ForensicBrowserAnalyzer
 
-# 🔎 Advanced Forensic Browser Analyzer
+#  Advanced Forensic Browser Analyzer
 
 A Python-based Digital Forensic Tool designed to extract and analyze browser artifacts and system information through a professional graphical interface.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The **Advanced Forensic Browser Analyzer** is a desktop forensic application developed using Python and Tkinter.  
 
 It extracts and analyzes digital artifacts from:
 
-- 🌐 Google Chrome
-- 🌐 Mozilla Firefox
-- 💻 Local System Information
+-  Google Chrome
+-  Mozilla Firefox
+-  Local System Information
 
 This tool simulates real-world forensic investigation workflows by collecting browser history, bookmarks, and device information in a structured and searchable format.
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
-### 🌍 Browser Artifact Analysis
+###  Browser Artifact Analysis
 - Extract Chrome browsing history  
 - Extract Firefox browsing history  
 - Extract Chrome bookmarks  
@@ -31,7 +31,7 @@ This tool simulates real-world forensic investigation workflows by collecting br
 - Open URLs directly from the interface  
 - Export data to CSV for reporting  
 
-### 💻 System Information Collection
+###  System Information Collection
 - Username  
 - Hostname  
 - Operating System & Architecture  
@@ -39,7 +39,7 @@ This tool simulates real-world forensic investigation workflows by collecting br
 - RAM Information  
 - IP Address  
 
-### 🖥 Professional GUI
+###  Professional GUI
 - Tabbed interface (History, Bookmarks, System Info)  
 - Search functionality  
 - CSV export support  
@@ -47,7 +47,7 @@ This tool simulates real-world forensic investigation workflows by collecting br
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python 3
 - Tkinter (GUI)
@@ -58,6 +58,6 @@ This tool simulates real-world forensic investigation workflows by collecting br
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 
